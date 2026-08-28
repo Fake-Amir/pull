@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
-Version 1.0
+Version 1.0 2026/08/28
 This change was added via a Pull Request.
-Another info for Pull Request. 
+Pull Request for project.txt file. 
